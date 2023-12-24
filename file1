@@ -1,7 +1,9 @@
 hi this is venkatesh writing a code in file1.
 public class Hello{
-public hello(){
-System.out.println("hello world");
+public static void main(Strng[] args){
+//code will not execute if there is no main method
+System.out.println("helloWorld");
+
 }
 }
 
